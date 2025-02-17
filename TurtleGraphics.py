@@ -52,10 +52,42 @@ def main():
 
 
     # fillCorner(myTurtle, 2) #draws a square with top right corner filled in.
-
+me = turtle.Turtle
+me.penupo
+me. fillcolor)
+me.begin_fill)
+me. forward (200)
+me. left (90)
+me. forward (100)
+me. forward (100)
+me. left (90)
+me. forward (100)
+me. forward (100)
+me. left(90)
+me. forward (100)
+me. forward (100)
+me. left(90)
+me. forward (100)
     # fillCorner(myTurtle, 3) #draws a square bottom left corner filled in.
-
+me = turtle.Turtle() 
+me.penup()
+me.fillcolor()
+me.begin_fill()
+me.backward(200)
+me.left(90)
+me.backward(100)
+me.backward(100)
+me.left(90)
+me.backward(100)
+me.backward(100)
+me.left(90)
+me.backward(100)
+me.backward(100)
+me.left(90)
+me.backward(100)
+me.end_fill()
     # squaresInSquares(myTurtle, 5) #draws 5 concentric squares
+
     # squaresInSquares(myTurtle, 3) #draws 3 concentric squares
 
 
